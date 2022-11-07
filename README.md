@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @syedmouaazfarrukh, Electrical Engineer 23' | IEEE Brand Ambassador | Front-End Developer -NLT | Ai/ML - Fiverr | MLSA Squad Leader
-- 👀 I’m interested in Front-end Development and Ai/Ml, Cloud computing and learning the latter two.
-- 💞️ I’m looking to collaborate on various subjects such as product development, UI/UX and subjects around the feild of Ai and cloud.
-- 📫 You can reach out to on these handles:
+Hi Everyone! 👋🏻
+
+I'm an undergrad of EE(CS) currently working as the Chairperson IEEE UET Lahore and member of Planning Committee AWS Community Pakistan developing communities and empowering the youth. 🛠.
+
+I've worked as Front-end & UI/UX developer for the past 2 years and now transitioning towards Cloud/DevOps Engineering. Meanwhile I also freelance in the field of Ai/ML. 🚀☁️
+
+In addition to this, having a product oriented mindset I've worked multiple Hackathons, coming up with innovative products and further providing assistance to bring new ones into the eco-system 🦾
+
+📫 You can reach out to on these handles:
       twitter.com/symouaazfarrukh
       linkedin.com/in/syed-mouaaz-farrukh/
       instagram.com/syedmouaazfarrukh/
