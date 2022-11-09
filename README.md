@@ -1,10 +1,10 @@
 Hi Everyone! 👋🏻
 
-I'm an undergrad of EE(CS) currently working as the Chairperson IEEE UET Lahore and member of Planning Committee AWS Community Pakistan developing communities and empowering the youth. 🛠.
+I'm an undergrad of EE(CS) @ UET LHR, currently working as the Chairperson of IEEE UET Lahore and member of Planning Committee at AWS Community Pakistan aimed at developing communities and empowering the youth.
 
-I've worked as Front-end & UI/UX developer for the past 2 years and now transitioning towards Cloud/DevOps Engineering. Meanwhile I also freelance in the field of Ai/ML. 🚀☁️
+I've worked as Front-end & UI/UX developer for the past 2 years and now transitioning towards Cloud/DevOps Engineering. Meanwhile I'm also a freelancer doing various projects in Ai/ML. 🚀☁️
 
-In addition to this, having a product oriented mindset I've worked multiple Hackathons, coming up with innovative products and further providing assistance to bring new ones into the eco-system 🦾
+In addition to this, having a product oriented mindset I've won & arranged multiple Hackathons introducing innovative products and further providing assistance to bring new ones into the eco-system 🦾
 
 📫 You can reach out to on these handles:
 
