@@ -1,6 +1,6 @@
 Hi Everyone! 👋🏻
 
-I'm an undergrad of EE(CS) @ UET LHR, currently working as the Chairperson of IEEE UET Lahore and member of Planning Committee at AWS Community Pakistan aimed at developing communities and empowering the youth.
+I'm a DevRel at roadmap.sh, Product Analyst at LUMS, Chairperson - IEEE UET Lahore & Planning Committee at AWS Community Pakistan aimed at developing communities and empowering the youth.
 
 I've worked as Front-end & UI/UX developer for the past 2 years and now transitioning towards Cloud/DevOps Engineering. Meanwhile I'm also a freelancer doing various projects in Ai/ML. 🚀☁️
 
