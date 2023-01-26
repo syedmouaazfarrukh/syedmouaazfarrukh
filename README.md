@@ -14,7 +14,6 @@ In addition to this, having a product oriented mindset I've won & arranged multi
      - facebook.com/mouaaz.farrukh
       
  
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,js,html,css" />
