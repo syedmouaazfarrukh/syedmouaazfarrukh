@@ -12,7 +12,6 @@ In addition to this, having a product oriented mindset I've won & arranged multi
      - linkedin.com/in/syed-mouaaz-farrukh/
      - instagram.com/syedmouaazfarrukh/
      - facebook.com/mouaaz.farrukh
-      
  
 <p align="center">
   <a href="https://skillicons.dev">
