@@ -23,13 +23,14 @@ In addition to this, having a product oriented mindset I've won & arranged multi
 </p>
 
 
-<p align="center">
+/br
+<div align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syedmouaazfarrukh&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syedmouaazfarrukh&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syedmouaazfarrukh&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=syedmouaazfarrukh&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=syedmouaazfarrukh&theme=github_dark&utcOffset=8)
-</p>
+</div>
      
 <!---
 syedmouaazfarrukh/syedmouaazfarrukh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
