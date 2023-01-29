@@ -12,7 +12,10 @@ In addition to this, having a product oriented mindset I've won & arranged multi
      - linkedin.com/in/syed-mouaaz-farrukh/
      - instagram.com/syedmouaazfarrukh/
      - facebook.com/mouaaz.farrukh
- 
+
+
+
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,js,html,css" />
@@ -20,13 +23,14 @@ In addition to this, having a product oriented mindset I've won & arranged multi
 </p>
 
 
+<p align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syedmouaazfarrukh&theme=github_dark)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syedmouaazfarrukh&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syedmouaazfarrukh&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=syedmouaazfarrukh&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=syedmouaazfarrukh&theme=github_dark&utcOffset=8)
-
+</p>
+     
 <!---
 syedmouaazfarrukh/syedmouaazfarrukh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
