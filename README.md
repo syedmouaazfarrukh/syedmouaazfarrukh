@@ -19,6 +19,10 @@ In addition to this, having a product oriented mindset I've won & arranged multi
   </a>
 </p>
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
+
+
 <!---
 syedmouaazfarrukh/syedmouaazfarrukh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
