@@ -20,11 +20,12 @@ In addition to this, having a product oriented mindset I've won & arranged multi
 </p>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syedmouaazfarrukh&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syedmouaazfarrukh&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syedmouaazfarrukh&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syedmouaazfarrukh&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=syedmouaazfarrukh&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syedmouaazfarrukh&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syedmouaazfarrukh&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=syedmouaazfarrukh&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=syedmouaazfarrukh&theme=github_dark&utcOffset=8)
 
 <!---
 syedmouaazfarrukh/syedmouaazfarrukh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
