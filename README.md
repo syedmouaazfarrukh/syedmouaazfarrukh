@@ -14,6 +14,18 @@ In addition to this, having a product oriented mindset I've won & arranged multi
      - facebook.com/mouaaz.farrukh
 
 
+```
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "strict": true,
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "exclude": ["node_modules"]
+  }
+}
+```
+
 
 <p align="center">
   <a href="https://skillicons.dev">
