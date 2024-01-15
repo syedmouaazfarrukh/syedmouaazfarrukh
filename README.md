@@ -14,18 +14,6 @@ In addition to this, having a product oriented mindset I've won & arranged multi
      - facebook.com/mouaaz.farrukh
 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,js,html,css" />
-  </a>
-</p>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syedmouaazfarrukh&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syedmouaazfarrukh&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syedmouaazfarrukh&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=syedmouaazfarrukh&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=syedmouaazfarrukh&theme=github_dark&utcOffset=8)
-     
      
 # Github Contributions
 <h4 align="center">Isometric view of contributions in the last year</h4>
